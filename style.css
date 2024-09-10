@@ -5,3 +5,7 @@ body {
 p {
     color: #1abbbb;
 }
+
+h1 {
+    font-style: italic;
+}
