@@ -1,5 +1,6 @@
 body {
     background-color: rgb(155, 117, 190);
+    text-align: center;
 }
 
 p {
@@ -16,4 +17,5 @@ h1 {
 }
 .img1 {
     width: 40%;
+    text-align: center;
 }
